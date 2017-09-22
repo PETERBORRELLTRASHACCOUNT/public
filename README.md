@@ -3,3 +3,4 @@ Partner: Sean Patterson
 
 This a README for the lab4 assignment
 This will cause a merge conflict
+I want this to conflict
